@@ -1,0 +1,29 @@
+{
+  "name": "dynamic-api",
+  "version": "1.0.0",
+  "description": "my frist dynamic api for countries",
+  "main": "Dapi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nightcode-dev/dynamic-api.git"
+  },
+  "keywords": [
+    "dynamic",
+    "api",
+    "city",
+    "country",
+    "continent"
+  ],
+  "author": "nightcode",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nightcode-dev/dynamic-api/issues"
+  },
+  "homepage": "https://github.com/nightcode-dev/dynamic-api#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
